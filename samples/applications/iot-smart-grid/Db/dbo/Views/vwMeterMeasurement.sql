@@ -22,3 +22,5 @@ GROUP BY
 		DATEPART(HOUR,MeasurementDate), 
 		DATEPART(MINUTE,MeasurementDate), 
 		DATEPART(ss,MeasurementDate)/1,0) 
+		
+		-- NOTE TEST
